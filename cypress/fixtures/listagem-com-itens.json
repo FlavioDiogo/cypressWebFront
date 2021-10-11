@@ -1,0 +1,31 @@
+[
+    {
+        "firstName": "Flávio",
+        "lastName": "Diogo",
+        "adress": "R. da Rua",
+        "emailAdress": "r@r.com",
+        "radioGender": "m",
+        "checks": [
+            "Dormir"
+        ],
+        "selectCountries": "Japão",
+        "selectYears": "1987",
+        "selectMonths": "Junho",
+        "pwd": "Mack1234"
+    },
+
+    {
+        "firstName": "Renata",
+        "lastName": "Diogo",
+        "adress": "R. da Rua",
+        "emailAdress": "r@r.com",
+        "radioGender": "f",
+        "checks": [
+            "Dormir"
+        ],
+        "selectCountries": "Japão",
+        "selectYears": "1987",
+        "selectMonths": "Junho",
+        "pwd": "Mack1234"
+    }
+]
